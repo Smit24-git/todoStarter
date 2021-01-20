@@ -1,10 +1,10 @@
 var cacheName = 'todo-pwa';
 var filesToCache = [
-  '/',
-  '/?',
-  '/index.html',
-  '/index.js',
-  '/index.css'
+  './',
+  './?',
+  './index.html',
+  './index.js',
+  './index.css'
 ];
 
 /* Start the service worker and cache all of the app's content */
